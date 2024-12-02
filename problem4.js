@@ -11,7 +11,7 @@ function countFractionOnes(str) {
 }
 
 console.log(countFractionOnes("1100000000011010000000000000000000000000000000000000000000000000"));
-// Output: 1
+// Output: 2
 
 console.log(countFractionOnes("0011111110111001100110011001100110011001100110011001100110011010"));
-// Output: 21
+// Output: 26
